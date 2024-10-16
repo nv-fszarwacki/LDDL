@@ -57,7 +57,7 @@ setup(
         'news-please @ git+https://github.com/fhamborg/news-please.git@3b7d9fdfeb148ef73f393bb2f2557e6bd878a09f',
         'cchardet==2.1.7',
         'awscli>=1.22.55',
-        'wikiextractor @ git+https://github.com/attardi/wikiextractor.git@v3.0.6',
+        'wikiextractor==3.0.6',
         'gdown==4.5.3',
     ],
     entry_points={
