@@ -51,7 +51,7 @@ setup(
         'dask-mpi==2021.11.0',
         'bokeh==2.4.3',
         'pyarrow==14.0.1',
-        'mpi4py==3.1.3',
+        'mpi4py==3.1.6',
         'transformers==4.16.2',
         'wikiextractor==3.0.6',
         'news-please @ git+https://github.com/fhamborg/news-please.git@3b7d9fdfeb148ef73f393bb2f2557e6bd878a09f',
